@@ -1,0 +1,3 @@
+* linguist-vendored
+*.cpp linguist-vendored=false
+Makefile linguist-venodred=false
